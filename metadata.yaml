@@ -1,0 +1,32 @@
+_repo: A-Letter-to-a-Hindu_7176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Tolstoi, Leo
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, East Indian'
+- !lcsh 'Government, Resistance to'
+- !lcc 'HM'
+- !lcsh 'Evil, Non-resistance to'
+- GITenberg
+title: A Letter to a Hindu
+url: http://www.gutenberg.org/ebooks/7176
